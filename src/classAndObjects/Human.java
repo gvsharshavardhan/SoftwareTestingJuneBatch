@@ -6,6 +6,7 @@ public class Human {
     String name = "abc" ; //null
     int age = 78; //0
     public double weight = 90; //0.0
+    static int noofhands ;
 
    public Human(String name, int age, double weight){
         this.name = name;

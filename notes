@@ -5,3 +5,13 @@ sout => print stmt
 main => main method
 ctrl + d => duplicate line
 ctrl + y => delete a line
+
+
+Classes and Objects:
+---------------------
+Class: Template, blueprint
+- Methods // behaviours
+- Variables // attributes
+- Constructor
+
+Objects: Instances of a class
